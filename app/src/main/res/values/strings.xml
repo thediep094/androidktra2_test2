@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThucHanh2</string>
+    <string-array name="arraySpinner">
+        <item>Tất cả</item>
+        <item>CNTT</item>
+        <item>kế Toán</item>
+        <item>Thiết kế đồ họa</item>
+        <item>Quản trị kinh doanh</item>
+    </string-array>
+</resources>
